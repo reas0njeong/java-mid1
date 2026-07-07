@@ -1,8 +1,5 @@
-package enumeration.test;
+package enumeration.test.ex1;
 
-import enumeration.test.ex1.AuthGrade;
-
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class AuthGradeMain2 {
